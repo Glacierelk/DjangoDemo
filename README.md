@@ -26,6 +26,7 @@
    python manage.py makemigrations
    python manage.py migrate
    ```
+3. 终端进入 `appfront` 目录，运行 `npm install' 安装前端所需依赖。
 
 ### 前端
 
